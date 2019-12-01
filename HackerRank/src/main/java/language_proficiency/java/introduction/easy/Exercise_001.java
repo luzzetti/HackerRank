@@ -1,4 +1,4 @@
-package language_proficiency.java.introduction;
+package language_proficiency.java.introduction.easy;
 
 /*
  * Welcome to Java!
